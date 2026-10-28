@@ -1,6 +1,6 @@
 ---
-name: local STT
-description: implement web application speech to text based in local models
+name: Local STT
+description: Implement web application speech to text based in local models
 ---
 
 # Local STT: Mooi implementation and replication specification
